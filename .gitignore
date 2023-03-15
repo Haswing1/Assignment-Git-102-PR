@@ -1,0 +1,11 @@
+#env files
+.env.local*
+
+#OS generated files
+.DS_Store
+._*
+.*.sw[op]
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
