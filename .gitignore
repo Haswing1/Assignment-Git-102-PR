@@ -1,5 +1,6 @@
 #env files
 .env.local*
+.env.production.local*
 
 #OS generated files
 .DS_Store
